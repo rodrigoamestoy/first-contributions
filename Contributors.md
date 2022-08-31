@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 
+- [Rodrigo Amestoy] (https://github.com/rodrigoamestoy)
 - [Beshir Saeed] (https://github.com/Bishosba)
 - [Natalia Chotza] (https://github.com/NataliaChotza)
 - [Julian Schiedel] (https://github.com/palladio11)
